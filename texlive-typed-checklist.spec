@@ -3,7 +3,7 @@ Version:	63445
 Release:	2
 Summary:	Typesetting tasks, goals, milestones, artifacts, and more in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/typed-checklist
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/typed-checklist
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/typed-checklist.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/typed-checklist.doc.r%{version}.tar.xz
